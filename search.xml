@@ -453,33 +453,6 @@
     
     
     <entry>
-      <title>校内课-编译原理</title>
-      <link href="/posts/be805712.html"/>
-      <url>/posts/be805712.html</url>
-      
-        <content type="html"><![CDATA[<h2 id="前言">前言</h2><h1>第一章：引论</h1><h2 id=""></h2><p>机器语言：直接用二进制代码指令来编写程序的语言，由二进制指令代码组成</p><p>汇编语言：又称为符号语言，用英文缩写符号(指令助记符)来代替机器语言中指令的操作码，用地址符号代替地址码。用指令助记符及地址符号书写的指令成为汇编指令，用汇编指令编写的程序称为汇编语言源程序。需要翻译成机器语言才能执行</p><p>高级语言：脱离硬件，面向问题的程序设计语言，其表达方式接近自然语言和数学语言，易于人们接受和掌握。程序的编制和调试方便，通用性和可移植性好，需要通过编译程序翻译成目标语言程序或通过解释程序边解释边执行</p><h2 id="编译程序和解释程序">编译程序和解释程序</h2><p>编译程序：中间代码-&gt;目标代码</p><p><img src="https://bd-hexo.oss-cn-beijing.aliyuncs.com/img/image-20230227090356807.png" alt="image-20230227090356807"></p><p>解释程序：直接运行中间代码</p><p><img src="https://bd-hexo.oss-cn-beijing.aliyuncs.com/img/image-20230227090412289.png" alt="image-20230227090412289"></p><h2 id="编译程序基本结构">编译程序基本结构</h2><p>编译逻辑过程：</p><p><img src="https://bd-hexo.oss-cn-beijing.aliyuncs.com/img/image-20230227091849907.png" alt="image-20230227091849907"></p><p>前一个过程的输出是下一个过程的输入</p><p>**词法分析：**字符流-&gt;单词流     单词流包括如标识符、关键字、运算符、常数、分界符</p><p>**语法分析：**单词流-&gt;语法单位  通常语法单位可表示为语法树</p><p>**语义分析：**按照语法树的层次关系和先后次序进行语义处理，进行相应的语义检查，保证源程序在语义中的正确性  a=b+c ，b是数组，语义错误</p><p>**中间代码生成：**在语法分析和语义分析的基础上，根据语法成分的语义对其进行翻译，译成在语义上等价的中间代码语言  中间代码的性质：容易生成、容易被翻译为目标代码</p><p>**代码优化：**对中间代码进行变换、使代码更为高效</p><p>**目标代码生成：**生成机器指令或汇编指令</p><p>**符号表管理：**在编译过程中,源程序的相关信息保留在各种表格中。收集源程序中使用的名字，手机每个名字的各种属性信息、类型、作用域、分配存储信息</p><p>**出错处理：**发现源程序中可能出现的错误、指出错误的性质和错误发生的位置</p><h2 id="编译程序的组织">编译程序的组织</h2><p>编：从头到尾扫描程序</p><hr><h1>第二章：文法和语言</h1><p>文法是用来描述语言的</p><h2 id="符号和符号串">符号和符号串</h2><p>字母表：符号的非空有穷集合</p><p>符号串：由字母表中的符号组成的任何有穷序列</p><p>符号串的头尾：z=xy，x是z的头(前缀)，y是z的尾(后缀)</p><p>符号串的长度：符号串中符号的个数</p><p>符号串的连接：符号串x与y的连接就是把y的符号卸载x的符号之后得到的符号串xy，空串和任何符号串连接都是改符号串</p><p>符号串的方幂：符号串自身连接n次得到它的n次幂。任何符号串的0次幂为空串</p><p>符号串集合：若集合A中的一切元素都是欧字母表上的符号串，则A为该字母表上的符号串集合</p><p>闭包：使用Σ*表示Σ上的一切符号串组成的集合，Σ*称为集合Σ的闭包，不包括空串称为正闭包</p><h2 id="短语、直接短语、句型">短语、直接短语、句型</h2><p><a href="https://blog.csdn.net/chen_zan_yu_/article/details/100369693">https://blog.csdn.net/chen_zan_yu_/article/details/100369693</a></p><p><img src="https://img-blog.csdnimg.cn/20190902195138876.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NoZW5femFuX3l1Xw==,size_16,color_FFFFFF,t_70" alt="img"></p><p><img src="https://img-blog.csdnimg.cn/20190902195732731.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NoZW5femFuX3l1Xw==,size_16,color_FFFFFF,t_70" alt="img"></p><p><img src="https://img-blog.csdnimg.cn/20190902200003458.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NoZW5femFuX3l1Xw==,size_16,color_FFFFFF,t_70" alt="img"></p><p><img src="https://img-blog.csdnimg.cn/20190902200300134.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NoZW5femFuX3l1Xw==,size_16,color_FFFFFF,t_70" alt="img"></p><p><img src="https://img-blog.csdnimg.cn/20190902201014325.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NoZW5femFuX3l1Xw==,size_16,color_FFFFFF,t_70" alt="img"></p><blockquote><p>令文法 G1 G_1G<br>1<br>​<br>为：</p><p>①S−&gt;a∣b∣(T) ① S -&gt; a|b|(T)①S−&gt;a∣b∣(T)<br>②T−&gt;TdS∣S ② T -&gt; TdS|S②T−&gt;TdS∣S</p><p>证明 (Sd(T)db) (Sd(T)db)(Sd(T)db) 是 S 的一个句型，并求出短语，直接短语，句柄和素短语。</p><p>语法树：<br><img src="https://img-blog.csdnimg.cn/20190317124749255.png" alt="å¨è¿éæå¥å¾çæè¿°"></p><p>短语：S，(T)，b，Sd(T)，Sd(T)db，（Sd(T)db)</p><p>直接短语：S，(T)，b</p></blockquote><h1>第三章：词法分析</h1><h1>第四章：自顶向下的语法分析</h1><h1>第五章：自底向上的语法分析</h1><h1>第六章：LR分析法</h1><h1>第七章：语法制导翻译和中间代码生成</h1><h1>第八章：运行时的存储组织</h1><h1>第九章：符号表</h1><h1>第十章：代码优化</h1><h1>第十一章：目标代码生成</h1>]]></content>
-      
-      
-      <categories>
-          
-          <category> 计算机基础 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 计算机基础 </tag>
-            
-            <tag> 校内课程 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>面试知识：数据库篇</title>
       <link href="/posts/26d5895a.html"/>
       <url>/posts/26d5895a.html</url>
@@ -499,6 +472,33 @@
             <tag> 面试 </tag>
             
             <tag> Java基础 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>校内课-编译原理</title>
+      <link href="/posts/be805712.html"/>
+      <url>/posts/be805712.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="前言">前言</h2><h1>第一章：引论</h1><h2 id=""></h2><p>机器语言：直接用二进制代码指令来编写程序的语言，由二进制指令代码组成</p><p>汇编语言：又称为符号语言，用英文缩写符号(指令助记符)来代替机器语言中指令的操作码，用地址符号代替地址码。用指令助记符及地址符号书写的指令成为汇编指令，用汇编指令编写的程序称为汇编语言源程序。需要翻译成机器语言才能执行</p><p>高级语言：脱离硬件，面向问题的程序设计语言，其表达方式接近自然语言和数学语言，易于人们接受和掌握。程序的编制和调试方便，通用性和可移植性好，需要通过编译程序翻译成目标语言程序或通过解释程序边解释边执行</p><h2 id="编译程序和解释程序">编译程序和解释程序</h2><p>编译程序：中间代码-&gt;目标代码</p><p><img src="https://bd-hexo.oss-cn-beijing.aliyuncs.com/img/image-20230227090356807.png" alt="image-20230227090356807"></p><p>解释程序：直接运行中间代码</p><p><img src="https://bd-hexo.oss-cn-beijing.aliyuncs.com/img/image-20230227090412289.png" alt="image-20230227090412289"></p><h2 id="编译程序基本结构">编译程序基本结构</h2><p>编译逻辑过程：</p><p><img src="https://bd-hexo.oss-cn-beijing.aliyuncs.com/img/image-20230227091849907.png" alt="image-20230227091849907"></p><p>前一个过程的输出是下一个过程的输入</p><p>**词法分析：**字符流-&gt;单词流     单词流包括如标识符、关键字、运算符、常数、分界符</p><p>**语法分析：**单词流-&gt;语法单位  通常语法单位可表示为语法树</p><p>**语义分析：**按照语法树的层次关系和先后次序进行语义处理，进行相应的语义检查，保证源程序在语义中的正确性  a=b+c ，b是数组，语义错误</p><p>**中间代码生成：**在语法分析和语义分析的基础上，根据语法成分的语义对其进行翻译，译成在语义上等价的中间代码语言  中间代码的性质：容易生成、容易被翻译为目标代码</p><p>**代码优化：**对中间代码进行变换、使代码更为高效</p><p>**目标代码生成：**生成机器指令或汇编指令</p><p>**符号表管理：**在编译过程中,源程序的相关信息保留在各种表格中。收集源程序中使用的名字，手机每个名字的各种属性信息、类型、作用域、分配存储信息</p><p>**出错处理：**发现源程序中可能出现的错误、指出错误的性质和错误发生的位置</p><h2 id="编译程序的组织">编译程序的组织</h2><p>编：从头到尾扫描程序</p><hr><h1>第二章：文法和语言</h1><p>文法是用来描述语言的</p><h2 id="符号和符号串">符号和符号串</h2><p>字母表：符号的非空有穷集合</p><p>符号串：由字母表中的符号组成的任何有穷序列</p><p>符号串的头尾：z=xy，x是z的头(前缀)，y是z的尾(后缀)</p><p>符号串的长度：符号串中符号的个数</p><p>符号串的连接：符号串x与y的连接就是把y的符号卸载x的符号之后得到的符号串xy，空串和任何符号串连接都是改符号串</p><p>符号串的方幂：符号串自身连接n次得到它的n次幂。任何符号串的0次幂为空串</p><p>符号串集合：若集合A中的一切元素都是欧字母表上的符号串，则A为该字母表上的符号串集合</p><p>闭包：使用Σ*表示Σ上的一切符号串组成的集合，Σ*称为集合Σ的闭包，不包括空串称为正闭包</p><h2 id="短语、直接短语、句型">短语、直接短语、句型</h2><p><a href="https://blog.csdn.net/chen_zan_yu_/article/details/100369693">https://blog.csdn.net/chen_zan_yu_/article/details/100369693</a></p><p><img src="https://img-blog.csdnimg.cn/20190902195138876.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NoZW5femFuX3l1Xw==,size_16,color_FFFFFF,t_70" alt="img"></p><p><img src="https://img-blog.csdnimg.cn/20190902195732731.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NoZW5femFuX3l1Xw==,size_16,color_FFFFFF,t_70" alt="img"></p><p><img src="https://img-blog.csdnimg.cn/20190902200003458.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NoZW5femFuX3l1Xw==,size_16,color_FFFFFF,t_70" alt="img"></p><p><img src="https://img-blog.csdnimg.cn/20190902200300134.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NoZW5femFuX3l1Xw==,size_16,color_FFFFFF,t_70" alt="img"></p><p><img src="https://img-blog.csdnimg.cn/20190902201014325.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NoZW5femFuX3l1Xw==,size_16,color_FFFFFF,t_70" alt="img"></p><blockquote><p>令文法 G1 G_1G<br>1<br>​<br>为：</p><p>①S−&gt;a∣b∣(T) ① S -&gt; a|b|(T)①S−&gt;a∣b∣(T)<br>②T−&gt;TdS∣S ② T -&gt; TdS|S②T−&gt;TdS∣S</p><p>证明 (Sd(T)db) (Sd(T)db)(Sd(T)db) 是 S 的一个句型，并求出短语，直接短语，句柄和素短语。</p><p>语法树：<br><img src="https://img-blog.csdnimg.cn/20190317124749255.png" alt="å¨è¿éæå¥å¾çæè¿°"></p><p>短语：S，(T)，b，Sd(T)，Sd(T)db，（Sd(T)db)</p><p>直接短语：S，(T)，b</p></blockquote><h1>第三章：词法分析</h1><h1>第四章：自顶向下的语法分析</h1><h1>第五章：自底向上的语法分析</h1><h1>第六章：LR分析法</h1><h1>第七章：语法制导翻译和中间代码生成</h1><h1>第八章：运行时的存储组织</h1><h1>第九章：符号表</h1><h1>第十章：代码优化</h1><h1>第十一章：目标代码生成</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> 计算机基础 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 计算机基础 </tag>
+            
+            <tag> 校内课程 </tag>
             
         </tags>
       
