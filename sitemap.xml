@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://bdsnake.github.io/personal/about/index.html</loc>
+    <loc>https://bdsnake.github.io/personal/bb/index.html</loc>
     
     <lastmod>2024-09-25</lastmod>
     
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://bdsnake.github.io/personal/bb/index.html</loc>
+    <loc>https://bdsnake.github.io/personal/about/index.html</loc>
     
     <lastmod>2024-09-25</lastmod>
     
@@ -596,13 +596,6 @@
 
   
   <url>
-    <loc>https://bdsnake.github.io/tags/hexo/</loc>
-    <lastmod>2024-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://bdsnake.github.io/tags/Markdown/</loc>
     <lastmod>2024-10-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -617,42 +610,7 @@
   </url>
   
   <url>
-    <loc>https://bdsnake.github.io/tags/Java/</loc>
-    <lastmod>2024-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdsnake.github.io/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/</loc>
-    <lastmod>2024-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdsnake.github.io/tags/Java%E5%90%8E%E7%AB%AF/</loc>
-    <lastmod>2024-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdsnake.github.io/tags/%E5%BC%80%E5%8F%91%E6%96%87%E6%A1%A3/</loc>
-    <lastmod>2024-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdsnake.github.io/tags/Redis/</loc>
-    <lastmod>2024-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdsnake.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
+    <loc>https://bdsnake.github.io/tags/hexo/</loc>
     <lastmod>2024-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -673,6 +631,13 @@
   </url>
   
   <url>
+    <loc>https://bdsnake.github.io/tags/Java%E5%90%8E%E7%AB%AF/</loc>
+    <lastmod>2024-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://bdsnake.github.io/tags/Mybatis-Plus/</loc>
     <lastmod>2024-10-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -680,21 +645,35 @@
   </url>
   
   <url>
-    <loc>https://bdsnake.github.io/tags/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/</loc>
+    <loc>https://bdsnake.github.io/tags/Java/</loc>
     <lastmod>2024-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://bdsnake.github.io/tags/EF/</loc>
+    <loc>https://bdsnake.github.io/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/</loc>
     <lastmod>2024-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://bdsnake.github.io/tags/git/</loc>
+    <loc>https://bdsnake.github.io/tags/Redis/</loc>
+    <lastmod>2024-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdsnake.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
+    <lastmod>2024-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdsnake.github.io/tags/%E5%BC%80%E5%8F%91%E6%96%87%E6%A1%A3/</loc>
     <lastmod>2024-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -702,20 +681,6 @@
   
   <url>
     <loc>https://bdsnake.github.io/tags/SpringCloud/</loc>
-    <lastmod>2024-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdsnake.github.io/tags/%E5%BC%80%E5%8F%91%E6%A8%A1%E6%9D%BF/</loc>
-    <lastmod>2024-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdsnake.github.io/tags/SpringMVC/</loc>
     <lastmod>2024-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -736,14 +701,35 @@
   </url>
   
   <url>
-    <loc>https://bdsnake.github.io/tags/%E5%AF%B9%E8%B1%A1%E5%AD%98%E5%82%A8/</loc>
+    <loc>https://bdsnake.github.io/tags/%E5%BC%80%E5%8F%91%E6%A8%A1%E6%9D%BF/</loc>
     <lastmod>2024-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://bdsnake.github.io/tags/%E5%B7%A5%E5%85%B7/</loc>
+    <loc>https://bdsnake.github.io/tags/git/</loc>
+    <lastmod>2024-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdsnake.github.io/tags/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/</loc>
+    <lastmod>2024-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdsnake.github.io/tags/EF/</loc>
+    <lastmod>2024-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdsnake.github.io/tags/SpringMVC/</loc>
     <lastmod>2024-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -764,35 +750,21 @@
   </url>
   
   <url>
+    <loc>https://bdsnake.github.io/tags/%E5%AF%B9%E8%B1%A1%E5%AD%98%E5%82%A8/</loc>
+    <lastmod>2024-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdsnake.github.io/tags/%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2024-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://bdsnake.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
-    <lastmod>2024-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdsnake.github.io/tags/MySQL/</loc>
-    <lastmod>2024-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdsnake.github.io/tags/%E9%9D%A2%E8%AF%95/</loc>
-    <lastmod>2024-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdsnake.github.io/tags/Java%E5%9F%BA%E7%A1%80/</loc>
-    <lastmod>2024-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdsnake.github.io/tags/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2024-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -819,14 +791,35 @@
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>https://bdsnake.github.io/categories/hexo/</loc>
+    <loc>https://bdsnake.github.io/tags/%E9%9D%A2%E8%AF%95/</loc>
     <lastmod>2024-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
+  
+  <url>
+    <loc>https://bdsnake.github.io/tags/Java%E5%9F%BA%E7%A1%80/</loc>
+    <lastmod>2024-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdsnake.github.io/tags/MySQL/</loc>
+    <lastmod>2024-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdsnake.github.io/tags/%E7%AE%97%E6%B3%95/</loc>
+    <lastmod>2024-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
   
   <url>
     <loc>https://bdsnake.github.io/categories/%E6%BC%94%E7%A4%BA/</loc>
@@ -836,14 +829,7 @@
   </url>
   
   <url>
-    <loc>https://bdsnake.github.io/categories/Java/</loc>
-    <lastmod>2024-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://bdsnake.github.io/categories/Java%E5%90%8E%E7%AB%AF/</loc>
+    <loc>https://bdsnake.github.io/categories/hexo/</loc>
     <lastmod>2024-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -857,7 +843,14 @@
   </url>
   
   <url>
-    <loc>https://bdsnake.github.io/categories/NET/</loc>
+    <loc>https://bdsnake.github.io/categories/Java%E5%90%8E%E7%AB%AF/</loc>
+    <lastmod>2024-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdsnake.github.io/categories/Java/</loc>
     <lastmod>2024-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -871,7 +864,7 @@
   </url>
   
   <url>
-    <loc>https://bdsnake.github.io/categories/%E5%B7%A5%E5%85%B7/</loc>
+    <loc>https://bdsnake.github.io/categories/NET/</loc>
     <lastmod>2024-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -885,14 +878,14 @@
   </url>
   
   <url>
-    <loc>https://bdsnake.github.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
+    <loc>https://bdsnake.github.io/categories/%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2024-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://bdsnake.github.io/categories/%E9%9D%A2%E8%AF%95/</loc>
+    <loc>https://bdsnake.github.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
     <lastmod>2024-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -907,6 +900,13 @@
   
   <url>
     <loc>https://bdsnake.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/</loc>
+    <lastmod>2024-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://bdsnake.github.io/categories/%E9%9D%A2%E8%AF%95/</loc>
     <lastmod>2024-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
