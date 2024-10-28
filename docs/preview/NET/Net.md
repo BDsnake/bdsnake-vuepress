@@ -106,7 +106,7 @@ app.Run();
 
 运行即可
 
-![image-20240914132946870](https://bd-hexo.oss-cn-beijing.aliyuncs.com/img/image-20240914132946870.png)
+![image-20240914132946870](Net.assets/image-20240914132946870.png)
 
 
 
@@ -116,11 +116,11 @@ app.Run();
 
 下面以安装log4net为例
 
-![image-20240914133245611](https://bd-hexo.oss-cn-beijing.aliyuncs.com/img/image-20240914133245611.png)
+![image-20240914133245611](Net.assets/image-20240914133245611.png)
 
 
 
-![image-20240914133442702](https://bd-hexo.oss-cn-beijing.aliyuncs.com/img/image-20240914133442702.png)
+![image-20240914133442702](Net.assets/image-20240914133442702.png)
 
 ## 引入log4net
 
@@ -131,7 +131,7 @@ app.Run();
 
 ### step2: 导入配置文件
 
-![image-20240914134329176](https://bd-hexo.oss-cn-beijing.aliyuncs.com/img/image-20240914134329176.png)
+![image-20240914134329176](Net.assets/image-20240914134329176.png)
 
 log4net.config
 
@@ -373,7 +373,7 @@ namespace Advanced.NET.Controllers
 
 运行测试
 
-![image-20240914140224258](https://bd-hexo.oss-cn-beijing.aliyuncs.com/img/image-20240914140224258.png)
+![image-20240914140224258](Net.assets/image-20240914140224258.png)
 
 ##  Log4Net写SQL Server
 
@@ -701,7 +701,7 @@ GO
 
 测试成功
 
-![image-20240914142043031](https://bd-hexo.oss-cn-beijing.aliyuncs.com/img/image-20240914142043031.png)
+![image-20240914142043031](Net.assets/image-20240914142043031.png)
 
 
 
@@ -717,29 +717,29 @@ GO
 
 https://dotnet.microsoft.com/download/dotnet/6.0
 
-![image-20240914145619767](https://bd-hexo.oss-cn-beijing.aliyuncs.com/img/image-20240914145619767.png)
+![image-20240914145619767](Net.assets/image-20240914145619767.png)
 
 3、配置IIS
 
 
 
-![image-20240914145911988](https://bd-hexo.oss-cn-beijing.aliyuncs.com/img/image-20240914145911988.png)
+![image-20240914145911988](Net.assets/image-20240914145911988.png)
 
 确保添加这个模块
 
-![image-20240914150022119](https://bd-hexo.oss-cn-beijing.aliyuncs.com/img/image-20240914150022119.png)
+![image-20240914150022119](Net.assets/image-20240914150022119.png)
 
 ### 发布网站
 
 Step1：发布项目
 
-![image-20240918084321770](https://bd-hexo.oss-cn-beijing.aliyuncs.com/img/image-20240918084321770.png)
+![image-20240918084321770](Net.assets/image-20240918084321770.png)
 
 添加网站
 
 图里路径不对，应该填发布的目录。填错了可点开在高级设置里改
 
-![image-20240918084507021](https://bd-hexo.oss-cn-beijing.aliyuncs.com/img/image-20240918084507021.png)
+![image-20240918084507021](Net.assets/image-20240918084507021.png)
 
 ## AOP应用
 
@@ -2427,7 +2427,7 @@ Login 方法中 claims 声明中包含了 Admin 和 User 角色。详细请见
 
 在浏览器输入 http://localhost:5999/Fourth/Index3，没有登录回跳转到登录的页面；
 
-![img](https://bd-hexo.oss-cn-beijing.aliyuncs.com/img/116b48229db94fdef6d08685faaff523.png)
+![img](Net.assets/116b48229db94fdef6d08685faaff523.png)
 
 在 Program 类中我们可以添加更为复杂的策略授权
 
@@ -2607,7 +2607,7 @@ ASP.NET Core6 lOC容器
 控制反转（Inversion of Control, IoC）是一种软件设计模式，其目的是降低代码之间的耦合度。在C#中，可以使用依赖注入（Dependency Injection, DI）来实现控制反转。
 
 一般系统分为 UI 层、BLL 层、DAL 层、IBLL 层 和 IDAL 层，IOC 实质是通过抽象 IBLL（接口、抽象类、普通父类）获取BLL层的实例，如果使用依赖注入，那么各层的关系如下：
-![image-20240919104646431](https://bd-hexo.oss-cn-beijing.aliyuncs.com/img/image-20240919104646431.png)
+![image-20240919104646431](Net.assets/image-20240919104646431.png)
 
 ### DI简介
 
@@ -2751,7 +2751,7 @@ app.UseSwaggerUI(c =>
 
 属性-勾选此项
 
-![image-20240920093529562](https://bd-hexo.oss-cn-beijing.aliyuncs.com/img/image-20240920093529562.png)
+![image-20240920093529562](Net.assets/image-20240920093529562.png)
 
 然后重新运行，会生成
 
@@ -2780,7 +2780,7 @@ services.AddSwaggerGen(c =>
 
 解决：在属性的错误和警告中取消1951（需要重启vs生效）
 
-![image-20240920095433542](https://bd-hexo.oss-cn-beijing.aliyuncs.com/img/image-20240920095433542.png)
+![image-20240920095433542](Net.assets/image-20240920095433542.png)
 
 ### post传参的三种方式
 
@@ -2856,7 +2856,7 @@ WebApi 方法参数前加[FromBody]标识，表示该参数值应该从请求的
 
 #### 原理：
 
-![image-20240920102637557](https://bd-hexo.oss-cn-beijing.aliyuncs.com/img/image-20240920102637557.png)
+![image-20240920102637557](Net.assets/image-20240920102637557.png)
 
 #### 构建步骤
 
