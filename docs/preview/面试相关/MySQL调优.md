@@ -6,7 +6,7 @@ tags:
   - MySQL
 description: MySQL数据类型优化
 abbrlink: 2581e47d
-date: 2023-03-06 15:30:16
+createtime: 2023-03-06 15:30:16
 updated: 2023-03-06 15:30:16
 top_img:
 ---

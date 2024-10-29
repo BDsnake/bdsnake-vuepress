@@ -666,7 +666,7 @@ ALTER DATABASE [LogManager] SET QUERY_STORE = OFF
 GO
 USE [LogManager]
 GO
-/****** Object:  Table [dbo].[Log4Net]    Script Date: 2021/11/26 10:56:35 ******/
+/****** Object:  Table [dbo].[Log4Net]    Script createtime: 2021/11/26 10:56:35 ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -686,7 +686,7 @@ CREATE TABLE [dbo].[Log4Net](
 	[Exception] [varchar](2000) NULL
 ) ON [PRIMARY]
 GO
-/****** Object:  Table [dbo].[NLog]    Script Date: 2021/11/26 10:56:35 ******/
+/****** Object:  Table [dbo].[NLog]    Script createtime: 2021/11/26 10:56:35 ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON

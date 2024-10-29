@@ -7,7 +7,7 @@ tags:
   - SQLSugar
   - NET
 abbrlink: 13e9865f
-date: 2024-09-30 15:30:16
+createtime: 2024-09-30 15:30:16
 ---
 
 # .Net使用SQLSugar
