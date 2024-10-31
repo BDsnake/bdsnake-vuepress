@@ -1,12 +1,9 @@
 ---
-title: Java多线程操作同一变量的并发问题
-categories: Java
-tags:
-  - Java
-  - 多线程
-abbrlink: 1a7192e2
-createtime: 2023-08-30 15:30:16
+title: Java多线程的变量并发问题
+createTime: 2024/10/28 16:11:55
+permalink: /article/0ddsfs76/
 ---
+
 
 # Java多线程操作同一变量的并发问题
 

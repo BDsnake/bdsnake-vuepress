@@ -1,18 +1,9 @@
 ---
 title: 面试知识：Java基础篇
 createTime: 2024/10/28 16:11:28
-permalink: /article/q7ndia1l/
+permalink: /article/z7tmiyrz/
 ---
-title: 面试知识：Java基础篇
-categories: 面试
-tags:
-  - 面试
-  - Java基础
-description: 摘要
-abbrlink: 4f823f0d
-createtime: 2023-01-02 15:30:16
-updated: 2023-02-06 15:30:16
-top_img:
+
 
 本文对Java基础知识点做出高度且凝练的概括，便于回忆起基本的知识点。
 

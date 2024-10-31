@@ -1,16 +1,9 @@
 ---
-title: minio——对象存储
-categories: 工具
-tags:
-  - 对象存储
-  - 工具
-description: 摘要
-abbrlink: 5400c07c
-swiper_index: 1
-createtime: 2023-03-01 10:30:17
-cover:
-top_img:
+title: minio
+createTime: 2024/10/28 16:11:21
+permalink: /article/pdhcnjzw/
 ---
+
 
 # minio简介
 

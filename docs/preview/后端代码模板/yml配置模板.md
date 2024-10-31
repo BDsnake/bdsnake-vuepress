@@ -1,15 +1,9 @@
 ---
 title: yml配置模板
-categories: Java后端
-tags:
-  - Java后端
-  - 开发模板
-description: 摘要
-cover: /top_img/yml.png
-abbrlink: 8b115371
-createtime: 2022-07-25 20:30:16
-top_img:
+createTime: 2024/10/28 16:11:26
+permalink: /article/vr44mblf/
 ---
+
 
 ```yaml
 spring:

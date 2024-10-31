@@ -1,15 +1,9 @@
 ---
 title: 面试知识：SpringBoot篇
-categories: 面试
-tags:
-  - 面试
-  - Java基础
-description: Spring Boot
-abbrlink: 9cf5c09
-createtime: 2023-03-10 15:30:16
-updated: 2023-03-10 15:30:16
-top_img:
+createTime: 2024/10/28 16:11:28
+permalink: /article/fo2vib3c/
 ---
+
 
 主要参考：https://javaguide.cn/home.html
 

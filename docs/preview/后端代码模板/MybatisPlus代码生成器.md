@@ -1,16 +1,9 @@
 ---
-title: Mybatis-Plus代码生成器
-categories: Java后端
-tags:
-  - Java后端
-  - 开发模板
-  - Mybatis-Plus
-description: 摘要
-cover: 'https://bd-hexo.oss-cn-beijing.aliyuncs.com/img/mybatis-plus.png'
-abbrlink: 7efc2ccc
-createtime: 2022-08-31 15:38:16
-top_img:
+title: MybatisPlus代码生成器
+createTime: 2024/10/28 16:11:26
+permalink: /article/imwvqz1i/
 ---
+
 
 MP代码生成器网上的模板差异很大，实测大概为版本更新导致的代码风格不同，此文档记录不同版本下MP代码生成器的应用
 

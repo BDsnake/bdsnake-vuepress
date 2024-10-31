@@ -1,16 +1,9 @@
 ---
-title: Mybatis(或Plus)分页的几种情况
-categories: Java后端
-tags:
-  - Java后端
-  - 开发模板
-  - Mybatis-Plus
-description: 摘要
-cover: 'https://bd-hexo.oss-cn-beijing.aliyuncs.com/img/mybatis-plus.png'
-abbrlink: '95186900'
-createtime: 2022-07-25 20:45:16
-top_img:
+title: Mybatis-Plus分页
+createTime: 2024/10/28 16:11:26
+permalink: /article/6z7lw6pj/
 ---
+
 
 # 代码模板：Mybatis(或Plus)分页的几种情况
 

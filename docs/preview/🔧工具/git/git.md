@@ -1,16 +1,9 @@
 ---
-title: 版本控制工具：git
-categories: Java后端
-tags:
-  - git
-  - Java后端
-description: 摘要
-cover: >-
-  https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fcdn.learnku.com%2Fuploads%2Fimages%2F201911%2F20%2F1%2FtcnsXi0G1J.png%21large&refer=http%3A%2F%2Fcdn.learnku.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1662520183&t=3b798dde8799d625d5790f5bb83087d8
-abbrlink: 69855fa3
-createtime: 2022-08-08 11:04:16
-top_img:
+title: git
+createTime: 2024/10/28 16:11:21
+permalink: /article/egonftft/
 ---
+
 
 # 版本控制工具：git
 

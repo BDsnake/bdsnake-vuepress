@@ -1,11 +1,9 @@
 ---
 title: vue
-categories: Vue
-tags:
-  - 前端开发
-  - Vue
-createtime: 2024-10-17 15:30:16
+createTime: 2024/10/28 16:11:35
+permalink: /article/wuu40fwz/
 ---
+
 # Vue2
 
 官方文档：写的很好，语法可以直接查

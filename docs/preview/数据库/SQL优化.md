@@ -1,11 +1,9 @@
 ---
 title: SQL优化
-categories: 数据库
-tags:
-  - 数据库
-abbrlink: b69403ff
-createtime: 2024-09-11 15:30:16
+createTime: 2024/10/28 16:11:41
+permalink: /article/cqijrbmw/
 ---
+
 
 # SQL优化
 

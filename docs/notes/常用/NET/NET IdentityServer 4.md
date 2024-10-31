@@ -1,13 +1,9 @@
 ---
-title: .NET IdentityServer 4
-Categories: .NET
-Tags:
-  - 后端开发
-  - NET
-  - IdentityServer4
-createTime: 2024/10/25 16:30:16
-permalink: /常用/cj7m2r7x/
+title: NET IdentityServer 4
+createTime: 2024/10/28 16:46:37
+permalink: /常用/rrbkns7f/
 ---
+
 
 
 踩了好多坑

@@ -1,13 +1,9 @@
 ---
-title: .Net6
-categories: .NET
-tags:
-  - 后端开发
-  - EF
-abbrlink: 9ed69d6
-createTime: 2024/10/28 14:58:25
-permalink: /article/nwe0zqc8/
+title: Net
+createTime: 2024/10/28 14:32:29
+permalink: /article/1tjx92fk/
 ---
+
 
 # .Net Core 6
 

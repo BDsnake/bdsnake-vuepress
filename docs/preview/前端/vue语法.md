@@ -1,11 +1,9 @@
 ---
-Title: vue语法
-Categories: Vue
-Tags:
-  - 前端开发
-  - Vue
-createtime: 2024-10-18 15:30:16
+title: vue语法
+createTime: 2024/10/28 16:11:35
+permalink: /article/0hc4ogsx/
 ---
+
 ## 条件渲染
 
 条件渲染可以使用 `v-if`、`v-else-if`、`v-else` 和 `v-show` 指令来控制元素或组件的显示和隐藏。以下是常用的条件渲染方式：

@@ -1,14 +1,9 @@
 ---
-title: .Net使用SQLSugar
-categories:
-  - .NET
-tags:
-  - 后端开发
-  - SQLSugar
-  - NET
-abbrlink: 13e9865f
-createtime: 2024-09-30 15:30:16
+title: NET使用SQLSugar
+createTime: 2024/10/28 14:32:29
+permalink: /article/ndu84zae/
 ---
+
 
 # .Net使用SQLSugar
 

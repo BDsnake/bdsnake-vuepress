@@ -1,16 +1,9 @@
 ---
 title: SpringSecurity注册登录开发模板
-categories: Java后端
-tags:
-  - Java后端
-  - 开发模板
-  - Mybatis-Plus
-description: 摘要
-top_img: >-
-  https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic4.zhimg.com%2Fv2-e3bc4181d4d15bdcc4204f91a516cdad_1200x500.jpg
-abbrlink: b87f739b
-createtime: 2022-09-09 15:24:16
+createTime: 2024/10/28 16:11:26
+permalink: /article/ho4qhf2q/
 ---
+
 
 前言：此代码模板仅使用了简单的权限管理(就用了一张表)，并不正规，只是简单而已
 

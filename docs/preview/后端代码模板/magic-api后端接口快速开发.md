@@ -1,15 +1,9 @@
 ---
 title: magic-api后端接口快速开发
-categories: Java后端
-tags:
-  - Java后端
-  - 开发模板
-description: 摘要
-cover: 'https://w.wallhaven.cc/full/7p/wallhaven-7p39gy.png'
-abbrlink: ce5dde90
-createtime: 2022-01-08 16:43:16
-top_img:
+createTime: 2024/10/28 16:11:26
+permalink: /article/0cf677ty/
 ---
+
 
 # 前言
 

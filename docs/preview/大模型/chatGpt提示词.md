@@ -1,13 +1,9 @@
 ---
-title: ChatGPT提示词工程
-categories: 大模型
-tags:
-  - 大模型
-  - ChatGPT
-abbrlink: f5e9fa78
-createtime: 2023-08-29 11:04:16
-top_img:
+title: chatGpt提示词
+createTime: 2024/10/28 16:11:24
+permalink: /article/js76vwm8/
 ---
+
 
 
 # 1 Chatgpt提示词

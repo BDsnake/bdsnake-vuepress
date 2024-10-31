@@ -1,13 +1,7 @@
 ---
-title: 面试知识：JVM篇
-categories: 面试
-tags:
-  - 面试
-  - Java基础
-description: JVM
-abbrlink: d791be2a
-createtime: 2023-03-22 15:30:16
-updated: 2023-03-22 15:30:16
-top_img:
+title: Java八股文-背诵篇
+createTime: 2024/10/28 16:11:28
+permalink: /article/8iv21csg/
 ---
+
 

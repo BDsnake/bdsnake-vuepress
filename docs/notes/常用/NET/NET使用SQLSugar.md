@@ -1,14 +1,9 @@
 ---
-title: .Net使用SQLSugar
-categories:
-  - .NET
-tags:
-  - 后端开发
-  - SQLSugar
-  - NET
-createTime: 2024/09/30 15:30:16
-permalink: /常用/fu41jujo/
+title: NET使用SQLSugar
+createTime: 2024/10/28 16:46:37
+permalink: /常用/jjw6z54d/
 ---
+
 
 # .Net使用SQLSugar
 

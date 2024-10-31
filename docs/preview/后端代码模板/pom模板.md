@@ -1,15 +1,9 @@
 ---
 title: pom模板
-categories: Java后端
-tags:
-  - 开发模板
-  - Java后端
-description: 摘要
-cover: /top_img/maven.png
-abbrlink: b2c3ecb9
-createtime: 2022-07-25 15:30:16
-top_img:
+createTime: 2024/10/28 16:11:26
+permalink: /article/vus2y0o0/
 ---
+
 
 # 解决资源过滤
 

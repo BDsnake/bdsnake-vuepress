@@ -1,13 +1,9 @@
 ---
-title: .Net代码大全
-categories:
-  - .NET
-tags:
-  - 后端开发
-  - NET
-abbrlink: 3d20ff3
-createtime: 2024-10-15 15:29:16
+title: NET代码大全
+createTime: 2024/10/28 14:32:29
+permalink: /article/gwbqoosq/
 ---
+
 
 # .Net 代码大全
 

@@ -1,14 +1,9 @@
 ---
 title: SpringCloud笔记(一)
-categories: Java后端
-tags:
-  - SpringCloud
-description: 摘要
-cover: 'https://w.wallhaven.cc/full/wy/wallhaven-wyqjoq.jpg'
-abbrlink: fc640ee4
-createtime: 2022-11-10 15:30:16
-top_img:
+createTime: 2024/10/28 16:11:55
+permalink: /article/d9yidg9g/
 ---
+
 
 # 前言
 

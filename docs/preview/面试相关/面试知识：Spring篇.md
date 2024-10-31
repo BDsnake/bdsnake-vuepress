@@ -1,15 +1,9 @@
 ---
 title: 面试知识：Spring篇
-categories: 面试
-tags:
-  - 面试
-  - Java基础
-description: 摘要
-abbrlink: 86daf52c
-createtime: 2023-03-09 15:30:16
-updated: 2023-03-09 15:30:16
-top_img:
+createTime: 2024/10/28 16:11:28
+permalink: /article/o9moj6h7/
 ---
+
 
 主要参考：https://javaguide.cn/home.html
 

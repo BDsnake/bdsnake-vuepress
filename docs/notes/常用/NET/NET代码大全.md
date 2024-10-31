@@ -1,13 +1,9 @@
 ---
-title: .Net代码大全
-categories:
-  - .NET
-tags:
-  - 后端开发
-  - NET
-createTime: 2024/10/15 15:29:16
-permalink: /常用/gasix21k/
+title: NET代码大全
+createTime: 2024/10/28 16:46:37
+permalink: /常用/hevjmedb/
 ---
+
 
 # .Net 代码大全
 

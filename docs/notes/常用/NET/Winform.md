@@ -1,13 +1,9 @@
 ---
 title: Winform
-categories: .NET
-tags:
-  - 后端开发
-  - Winform
-  - .Net
-createTime: 2024/10/15 15:30:16
-permalink: /常用/snzlt4af/
+createTime: 2024/10/28 16:46:37
+permalink: /常用/jckltt7u/
 ---
+
 
 
 

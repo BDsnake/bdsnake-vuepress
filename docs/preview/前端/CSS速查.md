@@ -1,14 +1,9 @@
 ---
 title: CSS速查
-categories: 前端
-tags:
-  - 前端
-  - CSS
-description: 摘要
-abbrlink: 50064ae9
-createtime: 2023-02-07 15:30:17
-top_img:
+createTime: 2024/10/28 16:11:35
+permalink: /article/ntp7rk0m/
 ---
+
 
 ## 一．什么是css？
 

@@ -1,15 +1,9 @@
 ---
-title: swagger-ui 入门
-categories: Java后端
-tags:
-  - Java后端
-  - 开发文档
-description: 摘要
-cover: 'https://bd-hexo.oss-cn-beijing.aliyuncs.com/img/image-20220730183327427.png'
-abbrlink: ae3eb4d2
-createtime: 2022-07-30 15:30:16
-top_img:
+title: swagger-ui
+createTime: 2024/10/28 16:11:55
+permalink: /article/2l8l5c8w/
 ---
+
 
 # Swagger-ui
 

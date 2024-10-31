@@ -1,12 +1,9 @@
 ---
-title: Gin框架
-categories: Golang
-tags:
-  - Golang
-  - Gin
-abbrlink: 6d104c29
-createtime: 2023-08-31 15:30:16
+title: gin
+createTime: 2024/10/28 16:11:04
+permalink: /article/8l6mdpcu/
 ---
+
 
 参考网站：
 

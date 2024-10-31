@@ -1,11 +1,9 @@
 ---
-Title: vue代码大全
-Categories: Vue
-Tags:
-  - 前端开发
-  - Vue
-createtime: 2024-10-17 15:31:16
+title: Vue代码大全
+createTime: 2024/10/28 16:11:35
+permalink: /article/um9vvi4b/
 ---
+
 # Vue代码大全
 
 ## Axios封装以及跨域配置

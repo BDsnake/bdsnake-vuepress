@@ -1,12 +1,9 @@
 ---
 title: Java多线程
-categories: Java
-tags:
-  - Java
-  - 多线程
-abbrlink: a2c3ad19
-createtime: 2023-08-31 15:30:16
+createTime: 2024/10/28 16:11:55
+permalink: /article/3yp3l57a/
 ---
+
 
 # Java多线程
 

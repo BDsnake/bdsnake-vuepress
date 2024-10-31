@@ -1,15 +1,9 @@
 ---
-title: SpringMVC乱码配置
-categories: Java后端
-tags:
-  - Java后端
-  - SpringMVC
-description: 摘要
-cover: /top_img/spring.png
-abbrlink: 9a16b6d
-createtime: 2022-07-25 20:46:16
-top_img:
+title: springMVC乱码配置
+createTime: 2024/10/28 16:11:26
+permalink: /article/u8ljjupa/
 ---
+
 
 # SpringMVC返回json乱码
 

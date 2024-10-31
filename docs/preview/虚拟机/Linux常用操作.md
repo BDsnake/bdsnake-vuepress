@@ -1,10 +1,9 @@
 ---
-Title: Linux常用操作
-Categories: Linux
-Tags:
-  - Linux
-createtime: 2024-10-23 15:30:16
+title: Linux常用操作
+createTime: 2024/10/28 16:11:41
+permalink: /article/7xefvgip/
 ---
+
 
 # Linux常用操作
 

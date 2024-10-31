@@ -1,16 +1,9 @@
 ---
-Title: .Net Lambda与LINQ
-Categories:
-  - .NET
-  - LINQ
-  - Lambda
-tags:
-  - 后端开发
-  - NET
-createTime: 2024/10/24 15:30:16
 title: NET Lambda与LINQ
-permalink: /常用/7docglmm/
+createTime: 2024/10/28 16:46:37
+permalink: /常用/7jw3rg9u/
 ---
+
 # .NET Lambda 与 LINQ
 
 

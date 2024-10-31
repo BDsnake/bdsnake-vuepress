@@ -1,10 +1,9 @@
 ---
 title: SQL优化
-categories: 数据库
-tags:
-  - 数据库
-createTime: 2024-09-11 15:30:16
+createTime: 2024/10/29 08:31:12
+permalink: /常用/8ecw53a6/
 ---
+
 
 # SQL优化
 

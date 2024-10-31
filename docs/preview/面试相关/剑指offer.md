@@ -1,16 +1,9 @@
 ---
-title: 算法——剑指offer刷题记录
-categories: 面试
-tags:
-  - 面试
-  - 算法
-description: 摘要
-cover: https://w.wallhaven.cc/full/jx/wallhaven-jxe3ry.jpg
-abbrlink: d8eed23d
-createtime: 2022-09-15 15:30:16
-updated: 2023-02-07 15:30:16
-top_img:
+title: 剑指offer
+createTime: 2024/10/28 16:11:28
+permalink: /article/mpubl9wx/
 ---
+
 
 ## 前言
 
